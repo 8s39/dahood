@@ -1,3 +1,5 @@
 # dahood scripts and guis
 
-jayhub - not fully functioning but good visuals
+jayhub - good visuals but doesnt work
+hood customs - hood customs scripts
+antilock hub - full of antilocks
